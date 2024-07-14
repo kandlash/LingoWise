@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LingoWise</string>
+    <string name="home">Home</string>
+    <string name="auth_text">Начни изучать английский \nс LingoWise</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Пароль</string>
+    <string name="authButtonText">Войти</string>
+    <string name="retriveTetx">Не удалось войти?</string>
+    <string name="retriveText">Не удалось войти?</string>
+    <string name="registrationButtonText">Зарегестрироваться</string>
+    <string name="confirmPasswordText">Подтверждение пароля</string>
+    <string name="autharizationTextButtonText">Есть аккаунт? Войти</string>
+</resources>
